@@ -1,0 +1,6 @@
+C:\Users\Ricardo\documents\visual studio 2013\Projects\ProvaTecnica.Collatz\ProvaTecnica.Collatz\bin\Debug\ProvaTecnica.Collatz.exe.config
+C:\Users\Ricardo\documents\visual studio 2013\Projects\ProvaTecnica.Collatz\ProvaTecnica.Collatz\bin\Debug\ProvaTecnica.Collatz.exe
+C:\Users\Ricardo\documents\visual studio 2013\Projects\ProvaTecnica.Collatz\ProvaTecnica.Collatz\bin\Debug\ProvaTecnica.Collatz.pdb
+C:\Users\Ricardo\documents\visual studio 2013\Projects\ProvaTecnica.Collatz\ProvaTecnica.Collatz\obj\Debug\ProvaTecnica.Collatz.exe
+C:\Users\Ricardo\documents\visual studio 2013\Projects\ProvaTecnica.Collatz\ProvaTecnica.Collatz\obj\Debug\ProvaTecnica.Collatz.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ProvaTecnica.Collatz\ProvaTecnica.Collatz\obj\Debug\ProvaTecnica.Collatz.csprojResolveAssemblyReference.cache
